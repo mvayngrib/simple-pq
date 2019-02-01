@@ -1,0 +1,17 @@
+{
+  "name": "simple-pq",
+  "version": "1.0.0",
+  "description": "bare bones promise-queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise",
+    "promises",
+    "promise-queue",
+    "concurrency-control"
+  ],
+  "author": "mvayngrib",
+  "license": "MIT"
+}
